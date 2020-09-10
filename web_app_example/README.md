@@ -1,4 +1,4 @@
-# Link to Heroku app: https://web-app-python-example-1.herokuapp.com/
+# Link to Heroku webbapp: https://web-app-python-example-1.herokuapp.com/
 
 # Installation
 In order to run this web app you will need to install: flask, plotly
